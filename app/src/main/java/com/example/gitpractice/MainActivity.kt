@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is second commit")
-        println("Experimental branch")
+        println("Experimental2")
     }
 }
